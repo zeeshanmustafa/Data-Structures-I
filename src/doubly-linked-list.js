@@ -4,3 +4,22 @@ class DoublyLinkedList {
     this.tail = null;
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+module.exports = LinkedList;
